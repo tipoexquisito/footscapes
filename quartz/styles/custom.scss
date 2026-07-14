@@ -1,3 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// No background pill on internal wikilinks — just the underline-free colored
+// text base.scss already gives them.
+a.internal {
+  background-color: transparent;
+  padding: 0;
+}
+
+// Body text a touch larger than the browser default (16px/12pt). Headers are
+// sized in rem off the html root, not body, so this only grows running text.
+body {
+  font-size: 18px;
+}

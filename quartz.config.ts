@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cormorant Garamond",
-        body: "Inter",
+        header: "Inter",
+        body: "Cormorant Garamond",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -47,7 +47,10 @@ const config: QuartzConfig = {
           darkgray: "#c4c4c4",
           dark: "#e0e0e0",
           secondary: "#5b8de0",
-          tertiary: "#84a59d",
+          // The exact formafantasma.com blue (#2f63be), previously discarded
+          // for the link color itself in favor of a brighter tint — reused
+          // here for link hover instead.
+          tertiary: "#2f63be",
           highlight: "rgba(91, 141, 224, 0.15)",
           textHighlight: "#5b8de088",
         },
