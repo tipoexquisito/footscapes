@@ -12,7 +12,7 @@ class: fiat-corde
 ---
 > The quill is the tongue of the soul. — Miguel de Cervantes
 
-This is the complete voice script of [[Fiat Corde]], written to be spoken, not read. The talk was delivered in Portuguese to a Portuguese room, and the script stays in its performance language. The stage directions are part of the document: they mark the silences, the cuts and the pauses that carry as much meaning as the words. The storyboard and production decisions live in [[Fiat Corde]]. Material that did not survive the cut is kept in [[Fiat Corde — Provisional Topics]].
+This is the complete voice script of [[Fiat Corde]], written to be spoken, not read. The talk was delivered in Portuguese to a Portuguese room, and the script stays in its performance language. The stage directions are part of the document: they mark the silences, the cuts and the pauses that carry as much meaning as the words. The storyboard and production decisions live in [[Storyboard — Fiat Corde]]. Material that did not survive the cut is kept in [[Fiat Corde — Provisional Topics]].
 
 ---
 
