@@ -13,14 +13,8 @@ The deck is not a page of this garden. It is a separate, cinematic piece, built 
 
 **[Watch the deck →](https://tipoexquisito.github.io/fiat-corde/)**
 
-## Behind it
-
-- [[Storyboard — Fiat Corde]] — the 52-state storyboard and production notes.
-- [[Notes on Fiat Corde]] — the full voice script, in the language of the room.
-- [[Fiat Corde — Provisional Topics]] — material cut from the talk, kept as seeds.
-
 ## What's next
 
 A director's cut is planned: a version of the deck built to be browsed and re-watched on its own terms, once the live talk has been given and the pressure of a fixed ten minutes is gone.
 
-Part of [[Design]]. #LearningExperienceDesign
+Part of [[Design/index|Design]]. #LearningExperienceDesign

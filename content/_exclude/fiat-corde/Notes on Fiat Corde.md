@@ -16,7 +16,7 @@ This is the complete voice script of [[Fiat Corde]], written to be spoken, not r
 
 ---
 
-![[Design/fiat-corde/fiat-corde-assets/deck/jornadas-pedagogicas.jpeg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/jornadas-pedagogicas.jpeg]]
 
 Olá. 
 Chamo-me Filipe, 
@@ -40,7 +40,7 @@ como estratégia de disseminação.
 > Goya invade o ecrã. 
 > Silêncio. Dez segundos.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/goya-3-maio.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/goya-3-maio.jpg]]
 
 Isto não é um quadro histórico. 
 É uma reportagem de guerra.
@@ -126,7 +126,7 @@ este quadro:
 a violenta revolta popular de 2 de maio 
 contra as tropas de Napoleão.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/goya-2-maio.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/goya-2-maio.jpg]]
 
 Os quadros de Goya 
 foram um dos elementos aglutinadores 
@@ -172,7 +172,7 @@ a 2 de maio de 1808?
 O feriado que tínhamos acabado de viver 
 era matéria do jogo.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/palacio-real-2-maio.jpeg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/palacio-real-2-maio.jpeg]]
 
 ---
 
@@ -191,7 +191,7 @@ por 14 obras
 
 Estes quadros de Goya estavam lá.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/estatua-goya.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/estatua-goya.jpg]]
 
 ---
 
@@ -231,7 +231,7 @@ e uma aula.
 Uma das exposições 
 chamava-se **"Sem Terra à Vista"**.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/sem-terra-vista.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/sem-terra-vista.jpg]]
 
 À entrada, diante da parede com o título, 
 a mediadora perguntou: 
@@ -259,7 +259,7 @@ Uma paisagem açoriana:
 
 A obra chama-se 3.16. 
 
-![[Design/fiat-corde/fiat-corde-assets/deck/3-16.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/3-16.jpg]]
 
 ---
 
@@ -281,8 +281,8 @@ Público,
 
 A paisagem mudou à frente deles.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/3-16-decifrar-imagem.jpg]]
-![[Design/fiat-corde/fiat-corde-assets/deck/3-16-jornal-publico.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/3-16-decifrar-imagem.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/3-16-jornal-publico.jpg]]
 
 ---
 
@@ -291,7 +291,7 @@ A paisagem mudou à frente deles.
 O título é uma data: 
 16 de março de 2003.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/cimeira-lajes.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/cimeira-lajes.jpg]]
 
 O dia da Cimeira das Lajes, 
 
@@ -362,10 +362,10 @@ Percorremos o resto:
 - O poder apresentado como pacífico. 
 - A paz distribuída à força.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-1.jpg]]
-![[Design/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-2.jpg]]
-![[Design/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-3.jpg]]
-![[Design/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-4.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-1.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-2.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-3.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/expo-sem-terra-4.jpg]]
 
 ---
 
@@ -424,7 +424,7 @@ visitei o Reina Sofía.
 
 Fui rever **Guernica**.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/guernica.jpeg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/guernica.jpeg]]
 
 Picasso pintou o bombardeamento de uma cidade 
 a partir das fotografias dos jornais.
@@ -448,7 +448,7 @@ produziu, em 1967,
 
 "African Guernica" 
 
-![[Design/fiat-corde/fiat-corde-assets/deck/african-guernica.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/african-guernica.jpg]]
 
 — o apartheid contado com a gramática de Picasso.
 
@@ -468,8 +468,8 @@ E ali estava o quadro com que começámos:
 o fuzilamento de Madrid 
 a acontecer em Gaza. 
 
-![[Design/fiat-corde/fiat-corde-assets/deck/guernica-gaza-1.jpg]]
-![[Design/fiat-corde/fiat-corde-assets/deck/guernica-gaza-2.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/guernica-gaza-1.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/guernica-gaza-2.jpg]]
 
 Guernica. O apartheid. Arrifana. Iraque. Gaza. Rimam.
 
@@ -481,7 +481,7 @@ O Picasso do Guernica
 A Europa nasceu dessas ruínas, 
 não de tratados. 
 
-![[Design/fiat-corde/fiat-corde-assets/deck/pomba-paz.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/pomba-paz.jpg]]
 
 Jean Monnet dizia: 
 - não unimos Estados, 
@@ -498,7 +498,7 @@ não é um requisito do Erasmus+.
 
 É a razão de ele existir.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/fiat-europa.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/fiat-europa.jpg]]
 
 ---
 
@@ -593,7 +593,7 @@ You are the intellectuals.
 Foi o que fiz. 
 Está tudo documentado aqui.
 
-![[Design/fiat-corde/fiat-corde-assets/deck/qr-footscapes.png]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/qr-footscapes.png]]
 
 > Pausa. Apontar para o ecrã. Não ler o endereço.
 
@@ -610,12 +610,12 @@ Julia, uma professora alemã.
 Na parede estava a ser projetado um filme-mudo:
 **Metropolis, 1927.** 
 
-![[Design/fiat-corde/fiat-corde-assets/deck/sala-equis-1.jpg]]
-![[Design/fiat-corde/fiat-corde-assets/deck/sala-equis-2.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/sala-equis-1.jpg]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/sala-equis-2.jpg]]
 
 ---
 
-![[Design/fiat-corde/fiat-corde-assets/deck/metropolis.png]]
+![[_exclude/fiat-corde/fiat-corde-assets/deck/metropolis.png]]
 
 No ecrã, uma frase:
 O mediador entre a cabeça e as mãos 

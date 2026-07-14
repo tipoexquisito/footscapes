@@ -121,7 +121,7 @@ A third item documents an interview with Prof. Joaquim Azevedo - founder of Arco
 
 ## Connections
 
-This project sits at the intersection of several threads that run through [[Experience]] and beyond.
+This project sits at the intersection of several threads that run through [[Experience/index|Experience]] and beyond.
 
 It demonstrates [[Project-Based Learning]] at a level that the 21CLD framework recognises as maximum performance: student-initiated, interdisciplinary, anchored in a real problem, producing artefacts for a real public. It demonstrates [[CASEL]] competences not as items on a checklist but as lived practice — the students who ran the podcast were, in the very act of running it, practising self-regulation, empathy and responsible decision-making.
 
@@ -151,4 +151,4 @@ Microsoft Partners in Learning. (2011). *21st Century Learning Design: A guide f
 
 ---
 
-Part of [[Experience]]. #Footscapes #LearningExperienceDesign
+Part of [[Experience/index|Experience]]. #Footscapes #LearningExperienceDesign

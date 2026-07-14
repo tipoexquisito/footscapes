@@ -9,6 +9,11 @@ import * as Component from "./quartz/components"
 // (like a top-level `const topLevelOrder`). Everything the function needs
 // must be declared inside the function body itself.
 const explorerOptions = {
+  // Notes tagged "hide-nav" (e.g. About me, A Note on Process) are still
+  // published and linkable, just kept out of the folder browser. Same
+  // self-containment rule as sortFn below: this is serialized with
+  // `.toString()` and re-run standalone in the browser.
+  filterFn: (node: any) => node.slugSegment !== "tags" && !(node.data?.tags ?? []).includes("hide-nav"),
   sortFn: (a: any, b: any) => {
     const topLevelOrder = ["learning", "experience", "design"]
 
