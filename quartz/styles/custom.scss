@@ -9,8 +9,18 @@ a.internal {
   padding: 0;
 }
 
-// Body text a touch larger than the browser default (16px/12pt). Headers are
-// sized in rem off the html root, not body, so this only grows running text.
+// Body text noticeably larger than the browser default (16px/12pt). Headers
+// are sized in rem off the html root, not body, so this only grows running
+// text. Cormorant Garamond also has a small x-height for its point size, so
+// it reads smaller than a sans body font at the same number — pushed further
+// than a plain +2pt to compensate.
 body {
-  font-size: 18px;
+  font-size: 20px;
+}
+
+// base.scss sets a fixed line-height (1.6rem, pinned to the 16px root), which
+// gets proportionally tighter as body font-size grows. Switch to a unitless
+// ratio so leading scales with the font size above instead.
+p {
+  line-height: 1.6;
 }
