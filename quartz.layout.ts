@@ -3,10 +3,15 @@ import * as Component from "./quartz/components"
 
 // fixed top-level menu order: Learning, Experience, Design. Everything else
 // (subfolders, files) falls back to the default folders-first, alphabetical sort.
-const topLevelOrder = ["learning", "experience", "design"]
-
+//
+// IMPORTANT: Explorer serializes sortFn with `.toString()` and re-runs it
+// standalone in the browser, so it cannot close over any outer variable
+// (like a top-level `const topLevelOrder`). Everything the function needs
+// must be declared inside the function body itself.
 const explorerOptions = {
   sortFn: (a: any, b: any) => {
+    const topLevelOrder = ["learning", "experience", "design"]
+
     // Explorer calls sortFn once per folder level, comparing siblings only, so
     // this naturally only fires the fixed order for the three root sections.
     const aIsTop = a.isFolder && topLevelOrder.includes(a.displayName.toLowerCase())
