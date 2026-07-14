@@ -12,7 +12,7 @@ tags:
 
 ## Preface
 
-These notes grew from movement. From classrooms that became museums and streets. From frameworks tested against real contexts. From the gap between what we teach and what we learn. {.indent} 
+These notes grew from movement. From classrooms that became museums and streets. From frameworks tested against real contexts. From the gap between what we teach and what we learn.
 
 Footscapes is a record of that movement. Not a report. A garden: some notes fully formed, others still seeds. The gardener is not the authority. The [[About me|gardener]] is the curator. See [[A Note on Process|notes on Process]].
 
