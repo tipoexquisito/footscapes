@@ -22,7 +22,12 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Inter",
-        body: "Cormorant Garamond",
+        // Cormorant Garamond is a display face (large titles, posters) — thin,
+        // high-contrast strokes and a small x-height that get hard to read as
+        // running body text, especially light-on-dark. Literata is designed
+        // by Google specifically for long-form on-screen reading: still a
+        // classic serif, but with a generous x-height and even stroke weight.
+        body: "Literata",
         code: "IBM Plex Mono",
       },
       colors: {
