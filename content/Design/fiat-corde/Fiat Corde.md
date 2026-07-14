@@ -1,14 +1,26 @@
 ---
 title: "Fiat Corde"
-description: "A ten-minute talk built like a film — the deck itself."
-type: redirect
+description: "A ten-minute talk built like a film — the deck itself, hosted as its own performative piece."
+type: reflection
 status: evergreen
 draft: false
 tags:
   - LearningExperienceDesign
 ---
-<script>window.location.replace(`/footscapes/fiat-corde/`)</script>
+**Fiat Corde** is a ten-minute talk built like a film, presented at an internal pedagogical conference, on the panel dedicated to Active Methodologies. It is not a mobility report. It is a compressed art history lesson whose thesis is the thesis of this garden: context does not illustrate content. Context is the content.
 
-A redirecionar para o deck. Se a página não avançar sozinha, [clica aqui](/fiat-corde/).
+The deck is not a page of this garden. It is a separate, cinematic piece, built to be watched, not browsed: hard cuts, silence, one state at a time.
 
-O storyboard, as notas de produção e o guião completo ficam em [[Storyboard — Fiat Corde]] e em [[Notes on Fiat Corde]].
+**[Watch the deck →](https://tipoexquisito.github.io/fiat-corde/)**
+
+## Behind it
+
+- [[Storyboard — Fiat Corde]] — the 52-state storyboard and production notes.
+- [[Notes on Fiat Corde]] — the full voice script, in the language of the room.
+- [[Fiat Corde — Provisional Topics]] — material cut from the talk, kept as seeds.
+
+## What's next
+
+A director's cut is planned: a version of the deck built to be browsed and re-watched on its own terms, once the live talk has been given and the pressure of a fixed ten minutes is gone.
+
+Part of [[Design]]. #LearningExperienceDesign

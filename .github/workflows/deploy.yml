@@ -1,4 +1,4 @@
-name: Deploy Footscapes (Quartz + Fiat Corde) to GitHub Pages
+name: Deploy Quartz site to GitHub Pages
 
 on:
   push:
@@ -31,14 +31,6 @@ jobs:
 
       - name: Build Quartz site
         run: npx quartz build
-
-      - name: Install Fiat Corde deck dependencies
-        working-directory: fiat-corde
-        run: npm ci --omit=dev
-
-      - name: Build Fiat Corde deck
-        working-directory: fiat-corde
-        run: npx slidev build --base /footscapes/fiat-corde/ --out ../public/fiat-corde
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
