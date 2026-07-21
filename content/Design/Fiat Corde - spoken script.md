@@ -1,5 +1,5 @@
 ---
-title: Notes on Fiat Corde
+title: Fiat Corde - Spoken script
 description: The full script of Fiat Corde, a ten-minute talk for an internal pedagogical conference. Kept in Portuguese, the language of the room.
 type: reflection
 status: seed
