@@ -7,8 +7,6 @@ draft: false
 tags:
   - LearningLandscapes
 ---
-
-
 *Context precedes content. Experience precedes explanation. Observation precedes abstraction.*
 
 Context4Content is the methodological axis that ran through the entire course. Its premise: learning does not need to be applied to reality — it is constructed from reality. Space, culture, and lived experience are not illustrations of content. They are the content.
