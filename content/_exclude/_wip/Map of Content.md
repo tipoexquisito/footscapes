@@ -21,14 +21,14 @@ _Notes on being taught._
 
 ---
 
-## [[Experience]]
+## [[Experience/index]]
 _Notes on learning in the world._
 - [[Transforma-te Transforma]]
 - [[CAO Visit Project]] _(in development)_
 
 ---
 
-## [[Design]]
+## [[Design/index]]
 _Notes on designing what stays._
 - [[Fiat Humanitas]]
 - [[On Language Traps]]

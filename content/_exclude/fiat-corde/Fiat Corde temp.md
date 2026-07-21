@@ -107,4 +107,4 @@ One decision recorded here so it is not reopened: red enters the deck as a docum
 - [[Fiat Humanitas]] — the reflection this talk grew from; the benchmark for tone.
 - [[Context4Content]] — the framework the talk demonstrates.
 
-Part of [[Design]]. #LearningExperienceDesign
+Part of [[Design/index]]. #LearningExperienceDesign

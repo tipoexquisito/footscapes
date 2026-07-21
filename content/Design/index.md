@@ -16,7 +16,7 @@ On art as witness, pedagogy as responsibility, and what we owe to those who arri
 [[On Language Traps]]
 On Wittgenstein, the limits of language, and what naming your practice actually changes.
 
-[[Fiat Corde temp]]
+[[Notes on Fiat Corde]]
 On designing a talk like a film. Storyboard and production notes for a ten-minute presentation where the slides direct the gaze and the voice carries the story.
 
 [[Learning/Active Methodologies - Teaching and Learning/Frameworks/index|Frameworks]]

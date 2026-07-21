@@ -78,4 +78,4 @@ Further reading and reference for those who want to go deeper.
 
 ---
 
-Part of [[Design]]. #Footscapes
+Part of [[Design/index]]. #Footscapes

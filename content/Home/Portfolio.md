@@ -58,7 +58,7 @@ Four things travel with me from course to course, from Arouca to Arco Maior to A
 ## Connections
 
 [[About me]] — the wider context this practice sits inside.
-[[Experience]] — more notes on learning in the world.
+[[Experience/index]] — more notes on learning in the world.
 [[CASEL]], [[ROAD - Roteiro de Objetivos de Aprendizagem e Desenvolvimento|ROAD]], [[21st Century Learning Design]] — the frameworks named above.
 
 ---

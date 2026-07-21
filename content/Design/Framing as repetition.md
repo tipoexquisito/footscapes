@@ -23,4 +23,4 @@ Source: [Porto Design Biennale, Instagram reel on the visual identity of *Time i
 
 ---
 
-Part of [[Design]]. #FrameShot #Context4Content
+Part of [[Design/index]]. #FrameShot #Context4Content
