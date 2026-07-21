@@ -12,7 +12,7 @@ tags:
 
 ## Preface
 
-These notes grew from movement. From classrooms that became museums and streets. From frameworks tested against real contexts. From the gap between what we teach and what we learn. {.indent} 
+These notes grew from movement. From classrooms that became museums and streets. From frameworks tested against real contexts. From the gap between what we teach and what we learn.
 
 Footscapes is a record of that movement. Not a report. A garden: some notes fully formed, others still seeds. The gardener is not the authority. The [[About me|gardener]] is the curator. See [[A Note on Process|notes on Process]].
 
@@ -25,11 +25,11 @@ Footscapes is a record of that movement. Not a report. A garden: some notes full
 		2. [[Learning/Active Methodologies - Teaching and Learning/Frameworks/index|Frameworks]]
 		3. [[Learning/Active Methodologies - Teaching and Learning/Field Learning Projects/index|Field Notes]]
 	2. [[Digital Pedagogy]] _(in development)_
-2. [[Experience/index]] _Notes on learning in the world._
+2. [[Experience/index|Experience]] _Notes on learning in the world._
 	1. [[Transforma-te Transforma]]
 	2. [[CAO Visit Project]] _(in development)_
 	3. [[Home/Portfolio|Portfolio]] _Trainer practice, frameworks and a running list of projects._
-3. [[Design/index]] _Notes on designing what stays._
+3. [[Design/index|Design]] _Notes on designing what stays._
 	1. [[Fiat Humanitas]]
 	2. [[Fiat Corde temp|Fiat Corde]] _a ten-minute talk built like a film_
 	3. [[On Language Traps]]
