@@ -131,6 +131,15 @@ button.desktop-explorer {
       opacity: 0.75;
       pointer-events: all;
 
+      // Without this, file links fall through to the global body font
+      // (serif, 20px) instead of the sidebar's own type scale — they end
+      // up several times larger than their sibling folders and wrap
+      // across many lines. Match .folder-container's font, just lighter
+      // weight, so files read as content and folders read as structure.
+      font-family: var(--headerFont);
+      font-size: 0.95rem;
+      line-height: 1.5rem;
+
       &.active {
         opacity: 1;
         color: var(--tertiary);

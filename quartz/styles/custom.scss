@@ -20,7 +20,10 @@ body {
 
 // base.scss sets a fixed line-height (1.6rem, pinned to the 16px root), which
 // gets proportionally tighter as body font-size grows. Switch to a unitless
-// ratio so leading scales with the font size above instead.
-p {
+// ratio so leading scales with the font size above instead. base.scss pairs
+// p with li in the same rule, so list items (table of contents, bullet
+// lists) need the same fix, or they end up visibly tighter than paragraphs.
+p,
+li {
   line-height: 1.6;
 }
