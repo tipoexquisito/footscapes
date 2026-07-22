@@ -31,7 +31,7 @@ That choice — repeated daily, in shared tasks, meals, museum visits, and late 
 
 ## Connections in the Course
 
-See [[Fiat Humanitas]], , [[European Dimension in Education]], and [[Dissemination Strategy]].
+See [[Fiat Humanitas]], [[Learning/Active Methodologies - Teaching and Learning/Dissemination/Dissemination|Dissemination]], [[European Dimension in Education]], and [[Dissemination Strategy]].
 
 ---
 

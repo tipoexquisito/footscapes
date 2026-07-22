@@ -23,4 +23,4 @@ The second walked through "Paula Frassinetti / CEaD," a Moodle-based LMS used in
 
 ---
 
-Part of [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]]. #LearningLandscapes
+Part of [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]]. #LearningLandscapes

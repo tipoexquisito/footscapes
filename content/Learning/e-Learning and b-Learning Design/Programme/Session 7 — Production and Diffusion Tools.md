@@ -31,4 +31,4 @@ A recurring thread connected these tools to deeper learning aims: building a Kah
 
 ---
 
-Part of [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]]. #LearningLandscapes
+Part of [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]]. #LearningLandscapes

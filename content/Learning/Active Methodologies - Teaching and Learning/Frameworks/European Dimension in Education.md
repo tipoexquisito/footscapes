@@ -25,7 +25,7 @@ Three dimensions of the European Dimension were present throughout the week, whe
 
 **Intercultural learning** — genuine encounter with different pedagogical cultures, not tourism of difference. The Bulgarian teacher and the Portuguese teacher bring different inherited assumptions about what a classroom is. That gap is not a problem to manage; it is the resource.
 
-**Professional solidarity** — the Erasmus+ spirit is the recognition that teachers are not isolated practitioners. What works in one classroom, documented and shared, can work in another. See  and [[Disseminare]].
+**Professional solidarity** — the Erasmus+ spirit is the recognition that teachers are not isolated practitioners. What works in one classroom, documented and shared, can work in another. See [[Learning/Active Methodologies - Teaching and Learning/Dissemination/Dissemination|Dissemination]] and [[Disseminare]].
 
 **Shared values** — openness, inclusion, democratic participation, critical thinking, and the commitment to learners' dignity regardless of background. These are not European inventions, but Europe chose to name them as founding commitments. [[Fiat Europa]] is the daily practice of that choice.
 

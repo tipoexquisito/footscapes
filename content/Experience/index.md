@@ -13,5 +13,8 @@ tags:
 [[Transforma-te Transforma]]
 PIEF · Arco Maior | 2024–25
 
-[[CAO Visit Project]] _(in development)_
+[[Experience/CAO Visit Project|CAO Visit Project]] _(in development)_
 Centro de Arte Oliva | June 2026
+
+[[Wiki de Cinematografia]]
+Multimédia · Escola Secundária de Arouca | 2023–2026 (redesign)

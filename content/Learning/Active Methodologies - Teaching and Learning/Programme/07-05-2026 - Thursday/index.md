@@ -25,7 +25,7 @@ The afternoon brought the week's most collaborative act of synthesis. Two teams 
 ![[071-20260507-group-team-working-on-presentation-afternoon.png]]
 *During the afternoon, the team gathered to work on their presentation. Julia (DE) was hungry | Day 5 © Team*
 
-The answer was a mind map. And when the question arose of what to use as the visual connectors, the artworks offered themselves. [[Las Meninas]], [[The Third of May 1808]], [[The Three Graces]]: paintings that had been accumulating meaning since Sunday evening, now carrying the weight of a shared week.
+The answer was a mind map. And when the question arose of what to use as the visual connectors, the artworks offered themselves. [[Las Meninas]], [[El 3 de mayo en Madrid|The Third of May 1808]], [[Las tres Gracias|The Three Graces]]: paintings that had been accumulating meaning since Sunday evening, now carrying the weight of a shared week.
 
 ---
 

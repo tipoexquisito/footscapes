@@ -11,24 +11,25 @@ _Enter from wherever makes sense._
 
 ---
 
-## [[Learning]]
+## [[Learning/index|Learning]]
 _Notes on being taught._
 - [[Learning/Active Methodologies - Teaching and Learning/index|Innovative and Active Methodologies for Teaching and Learning]]
   - [[Learning/Active Methodologies - Teaching and Learning/Programme/index|Programme]]
   - [[Learning/Active Methodologies - Teaching and Learning/Frameworks/index|Frameworks]]
   - [[Learning/Active Methodologies - Teaching and Learning/Field Learning Projects/index|Field Notes]]
 - [[Digital Pedagogy]] _(in development)_
+- [[Learning/Reading list/index|Reading List]]
 
 ---
 
-## [[Experience/index]]
+## [[Experience/index|Experience]]
 _Notes on learning in the world._
 - [[Transforma-te Transforma]]
-- [[CAO Visit Project]] _(in development)_
+- [[Experience/CAO Visit Project|CAO Visit Project]] _(in development)_
 
 ---
 
-## [[Design/index]]
+## [[Design/index|Design]]
 _Notes on designing what stays._
 - [[Fiat Humanitas]]
 - [[On Language Traps]]

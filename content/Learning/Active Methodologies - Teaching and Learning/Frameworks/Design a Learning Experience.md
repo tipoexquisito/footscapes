@@ -7,8 +7,6 @@ draft: false
 tags:
   - LearningLandscapes
 ---
-
-
 A cooperative design challenge in which groups redesign an existing lesson using active methodologies, removing direct instruction as the primary mode.
 
 ---

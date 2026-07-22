@@ -13,7 +13,7 @@ This course did that. Not through confrontation, but through design: every sessi
 
 The most lasting professional shifts from this week are likely to be the ones that are hardest to name: a slightly different instinct for how to open a session, a more conscious attention to the emotional temperature of a room, a new suspicion toward transmissive teaching.
 
-See [[Learning/Active Methodologies - Teaching and Learning/Reflections/Notes on Reflective Practice|Reflective Practice]], [[_templates/dissemination]] and [[Notes on Unlearning]].
+See [[Learning/Active Methodologies - Teaching and Learning/Reflections/Notes on Reflective Practice|Reflective Practice]], [[Dissemination Strategy]] and [[Notes on Unlearning]].
 
 ---
 

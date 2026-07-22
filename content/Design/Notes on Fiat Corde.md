@@ -55,7 +55,7 @@ No one in Madrid told me this. Madrid did it to me. I was not given a thesis; I 
 
 The test came in June. A class of ten, a module on neuromarketing. Attention, emotion, framing: how images make us decide. I did to them what Madrid had done to me. I did not take them to see an exhibition. I took them to a question.
 
-This is the part that does not photograph well: the preparation. Days before, I walked the rooms of the [[Museums|Centro de Arte Oliva]] with Daniel, from the mediation team. We chose the route. We designed the questions. An entire afternoon of walking through empty galleries before bringing anyone. *Dá trabalho*. It takes work. But it is the whole difference between an outing and a lesson.
+This is the part that does not photograph well: the preparation. Days before, I walked the rooms of the [[Centro de Arte Oliva]] with Daniel, from the mediation team. We chose the route. We designed the questions. An entire afternoon of walking through empty galleries before bringing anyone. *Dá trabalho*. It takes work. But it is the whole difference between an outing and a lesson.
 
 ![[fiat-corde-sem-terra.jpg]]
 
@@ -160,7 +160,7 @@ And then, almost an order:
 
 This note is part of that writing: the seed, scattered, that gives [[Footscapes]] its name.
 
-In [[Hoje 3 de maio]], [[Patrícia Portela]] refuses to tell the story in order. She offers many ways to read; in one, you open the book at the page of this painting, choose a detail, and begin the journey there. The reading ends when there is nothing left to discover.
+In [[Hoje, 3 de Maio|Hoje 3 de maio]], [[Patrícia Portela]] refuses to tell the story in order. She offers many ways to read; in one, you open the book at the page of this painting, choose a detail, and begin the journey there. The reading ends when there is nothing left to discover.
 
 I could have chosen the man in the white shirt. I chose the one who painted him. And I arrived here.
 
@@ -183,10 +183,10 @@ Further reading and reference for those who want to go deeper.
 - **On the shot** (image and weapon): [[Paul Virilio]], [[The Vision Machine]] (the optical arsenal, from the line of sight of the firearm to the camera); [[Harun Farocki]], [[Images of the World and the Inscription of War]] (camera, rifle, satellite, surveillance: one optical logic).
 - **On the works**: [[Goya]], [[El 2 de mayo de 1808 en Madrid]] and [[El 3 de mayo en Madrid|El 3 de Mayo]] ([[Museo del Prado]]); [[Picasso]], [[Guernica]], and [[Dumile Feni]], [[African Guernica]] ([[Museo Nacional Centro de Arte Reina Sofia]]); [[Mohammed Al-Hawajri]], [[Guernica-Gaza]].
 - **On the photograph at the Oliva**: [[Augusto Alves da Silva]], [[3-16|3.16,]] 2003 (Coleção Norlinda e José Lima).
-- **On the novel that shares the painting**: [[Patrícia Portela]], [[Hoje 3 de maio]] (2024).
+- **On the novel that shares the painting**: [[Patrícia Portela]], [[Hoje, 3 de Maio|Hoje 3 de maio]] (2024).
 - **Companion pieces**: 
 	- [[Fiat Humanitas]] (the week that came before)
 	- [Fiat Corde](https://tipoexquisito.github.io/fiat-corde/) (the slides)
 	- [[Fiat Corde - spoken script]] (the full script).
 
-Part of [[Fiat Corde]]. #LearningExperienceDesign #ContextForContent
+Part of [[Design/index|Design]]. #LearningExperienceDesign #ContextForContent

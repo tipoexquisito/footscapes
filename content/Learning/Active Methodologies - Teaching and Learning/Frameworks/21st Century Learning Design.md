@@ -34,7 +34,7 @@ tags:
 
 ## Connections in the Course
 
-21CLD was the focus of a session of the e-Learning and b-Learning Design course (May 2025): a decision-tree activity in which participants analysed their own learning designs against each dimension. See [[Learning/e-Learning and b-Learning Design/Programme/Session 8|Session 8 — 21CLD Analysis]].
+21CLD was the focus of a session of the e-Learning and b-Learning Design course (May 2025): a decision-tree activity in which participants analysed their own learning designs against each dimension. See [[Learning/e-Learning and b-Learning Design/Programme/Session 8 — Current and Emerging Trends|Session 8 — 21CLD Analysis]].
 
 ---
 

@@ -23,4 +23,4 @@ The closing session brought the course to an end: completing any outstanding tas
 
 ---
 
-Part of [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]]. #LearningLandscapes
+Part of [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]]. #LearningLandscapes

@@ -47,7 +47,7 @@ This distinction shapes every element of the application — and every decision 
 
 ## Connections in the Course
 
-See [[Dissemination Strategy]], , [[Disseminare]], and [[European Dimension in Education]].
+See [[Dissemination Strategy]], [[Learning/Active Methodologies - Teaching and Learning/Dissemination/Dissemination|Dissemination]], [[Disseminare]], and [[European Dimension in Education]].
 
 ---
 

@@ -27,7 +27,7 @@ Using digital technologies to engage in collaboration with other educators — s
 
 This is the dissemination impulse expressed as a daily professional habit: what you learn from your colleagues, you share. What you develop together, you document.
 
-See  and [[Disseminare]].
+See [[Learning/Active Methodologies - Teaching and Learning/Dissemination/Dissemination|Dissemination]] and [[Disseminare]].
 
 ---
 
@@ -49,7 +49,7 @@ The professional who stops learning has already begun to fall behind. In 2026, t
 
 ## Connections in the Course
 
-See [[Digital Resources]], [[Facilitating Learners' Digital Competence]], [[Dissemination Strategy]], and .
+See [[Digital Resources]], [[Facilitating Learners' Digital Competence]], [[Dissemination Strategy]], and [[Learning/Active Methodologies - Teaching and Learning/Dissemination/Dissemination|Dissemination]].
 
 ---
 

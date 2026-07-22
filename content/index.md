@@ -19,7 +19,7 @@ Footscapes is a record of that movement. Not a report. A garden: some notes full
 ---
 ## Table of Contents
 
-1. [[Learning]] _Notes on being taught._
+1. [[Learning/index|Learning]] _Notes on being taught._
 	1. [[Learning/Active Methodologies - Teaching and Learning/index|Innovative and Active Methodologies for Teaching and Learning]]
 		1. [[Learning/Active Methodologies - Teaching and Learning/Programme/index|Programme]]
 		2. [[Learning/Active Methodologies - Teaching and Learning/Frameworks/index|Frameworks]]
@@ -27,11 +27,11 @@ Footscapes is a record of that movement. Not a report. A garden: some notes full
 	2. [[Digital Pedagogy]] _(in development)_
 2. [[Experience/index|Experience]] _Notes on learning in the world._
 	1. [[Transforma-te Transforma]]
-	2. [[CAO Visit Project]] _(in development)_
+	2. [[Experience/CAO Visit Project|CAO Visit Project]] _(in development)_
 	3. [[Home/Portfolio|Portfolio]] _Trainer practice, frameworks and a running list of projects._
 3. [[Design/index|Design]] _Notes on designing what stays._
 	1. [[Fiat Humanitas]]
-	2. [[Fiat Corde temp|Fiat Corde]] _a ten-minute talk built like a film_
+	2. [[Notes on Fiat Corde|Fiat Corde]] _a ten-minute talk built like a film_
 	3. [[On Language Traps]]
 	4. [[Learning/Active Methodologies - Teaching and Learning/Frameworks/index|Frameworks]]
 
@@ -50,4 +50,4 @@ From there: [[Dissemination Strategy]], [[From teachers to teachers]].
 
 **If you work in learning and development**
 Start with [[Transforma-te Transforma]] or [[On Language Traps]]. 
-From there: [[Frameworks]], [[Learning Experience Design]], [[Fiat Humanitas]].
+From there: [[Learning/Active Methodologies - Teaching and Learning/Frameworks/index|Frameworks]], [[Learning Experience Design]], [[Fiat Humanitas]].

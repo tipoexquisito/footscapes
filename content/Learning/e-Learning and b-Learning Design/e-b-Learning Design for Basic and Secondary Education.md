@@ -7,7 +7,6 @@ draft: true
 tags:
   - LearningLandscapes
 ---
-
 # e-/b-Learning Design for Basic and Secondary Education
 
 The classroom did not disappear during the pandemic. It migrated. And for most teachers, that migration was improvised, unplanned, and deeply disorienting.
@@ -46,26 +45,26 @@ J. Design and develop a prototype e-learning or b-learning course for real imple
 
 ## Programme Outline
 
-The table below maps the original 30h structure from the Politécnico do Porto. The 25h edition delivered at Terras de Santa Maria condensed and resequenced these topics into nine sessions; see the [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]] for the session-by-session record of what was actually taught.
+The table below maps the original 30h structure from the Politécnico do Porto. The 25h edition delivered at Terras de Santa Maria condensed and resequenced these topics into nine sessions; see the [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]] for the session-by-session record of what was actually taught.
 
 Eleven topics, alternating between face-to-face (P) and online (O) sessions, in the original design.
 
-| # | Topic | Mode | Hours |
-|---|-------|------|-------|
-| 1 | Distance education: premises and implications | P | 2 |
-| 2 | e/b-learning: from virtual learning environments to communities of practice | O | 3 |
-| 3 | Learning management systems: from environments to models | O | 3 |
-| 4 | Developing an online course: from needs to implementation | O | 3 |
-| 5 | e/b-learning Kit I: synchronous communication tools | O | 3 |
-| 6 | e/b-learning Kit II: asynchronous communication tools | O | 2 |
-| 7 | e/b-learning Kit III: content production tools | P | 3 |
-| 8 | e/b-learning Kit IV: content diffusion tools | O | 3 |
-| 9 | Current and emerging trends in e/b-learning | O | 3 |
-| 10 | Practical cases | O | 3 |
-| 11 | Final self-reflection | P | 2 |
-| | **Total** | | **30** |
+| #   | Topic                                                                       | Mode | Hours  |
+| --- | --------------------------------------------------------------------------- | ---- | ------ |
+| 1   | Distance education: premises and implications                               | P    | 2      |
+| 2   | e/b-learning: from virtual learning environments to communities of practice | O    | 3      |
+| 3   | Learning management systems: from environments to models                    | O    | 3      |
+| 4   | Developing an online course: from needs to implementation                   | O    | 3      |
+| 5   | e/b-learning Kit I: synchronous communication tools                         | O    | 3      |
+| 6   | e/b-learning Kit II: asynchronous communication tools                       | O    | 2      |
+| 7   | e/b-learning Kit III: content production tools                              | P    | 3      |
+| 8   | e/b-learning Kit IV: content diffusion tools                                | O    | 3      |
+| 9   | Current and emerging trends in e/b-learning                                 | O    | 3      |
+| 10  | Practical cases                                                             | O    | 3      |
+| 11  | Final self-reflection                                                       | P    | 2      |
+|     | **Total**                                                                   |      | **30** |
 
-See the [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]] for full session notes.
+See the [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]] for full session notes.
 
 ---
 

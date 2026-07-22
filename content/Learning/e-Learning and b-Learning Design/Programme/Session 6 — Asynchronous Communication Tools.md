@@ -29,4 +29,4 @@ The session also looked at how linking and quoting within email threads can buil
 
 ---
 
-Part of [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]]. #LearningLandscapes
+Part of [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]]. #LearningLandscapes

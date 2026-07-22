@@ -29,4 +29,4 @@ The session closed by mapping the core concepts that would structure the rest of
 
 ---
 
-Part of [[Programme -  e-b-Learning Design for Basic and Secondary Education|Programme]]. #LearningLandscapes
+Part of [[Learning/e-Learning and b-Learning Design/Programme/index|Programme]]. #LearningLandscapes
