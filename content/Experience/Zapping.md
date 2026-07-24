@@ -42,4 +42,4 @@ Sources: [Zapping: Televisão como cultura e contracultura — Centro de Arte Ol
 
 ---
 
-Part of [[Experience/index]]. #Footscapes #LearningExperienceDesign
+Part of [[Experience/index|Experience]]. #Footscapes #LearningExperienceDesign
